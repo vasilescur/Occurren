@@ -10,7 +10,7 @@ Often, these children have very specific interests and passions, but there is a 
 
 ## The Solution
 
-Introducing *Occurren*, a mobile application geared towards empowering parents of kids with autism to create meaningful relationships between their kids and other like-minded children nearby.
+Introducing *Occurren*, a cross-platform mobile application geared towards empowering parents of kids with autism to create meaningful relationships between their kids and other like-minded children nearby.
 
 
 ## How it Works
@@ -28,7 +28,7 @@ When parents find a suitable potential connection, they can tap on that match fr
 
 ## Technology Stack
 
-Occurren is a mobile application built on the [Flutter](http://flutter.io) platform using Google's [Dart](http://dartlang.org) language.
+Occurren is a cross-platform (iOS, Android, Web) application built on the [Flutter](http://flutter.io) platform using Google's [Dart](http://dartlang.org) language.
 
 We crafted a server to handle data storage and retrieval. The server was built with [Node.js](https://nodejs.org/en/) and uses a Google [Firebase](https://firebase.google.com/) realtime database backend. In addition, we leveraged Firebase's [Machine Learning Kit](https://firebase.google.com/docs/ml-kit/) in our application.
 
