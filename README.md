@@ -33,3 +33,5 @@ Occurren is a mobile application built on the [Flutter](http://flutter.io) platf
 We crafted a server to handle data storage and retrieval. The server was built with [Node.js](https://nodejs.org/en/) and uses a Google [Firebase](https://firebase.google.com/) realtime database backend. In addition, we leveraged Firebase's [Machine Learning Kit](https://firebase.google.com/docs/ml-kit/) in our application.
 
 We developed the server using [repl.it](http://repl.it) as a development environment, and then hosted it on a Google Cloud Compute Engine instance.
+
+Finally, we used HTML/CSS/JavaScript to create a prototype web interface for the application.
