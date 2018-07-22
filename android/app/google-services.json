@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "576886633427",
+    "firebase_url": "https://ocurren-210918.firebaseio.com",
+    "project_id": "ocurren-210918",
+    "storage_bucket": "ocurren-210918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576886633427:android:5fe4b1d11c4be962",
+        "android_client_info": {
+          "package_name": "com.example.occurren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576886633427-3q0mquk1jc0dpao1tj2adrotmrm6b93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDdkYjJlzKcoOtp3StWBsEvmqvo_5KEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
