@@ -2,6 +2,8 @@
 
 # Occurren
 
+Empowering children with Autism to connect with the community.
+
 ## The Problem
 
 1 in every 59 kids are diagnosed with Autism in the United States. Out of these, 40% are considered *socially isolated*-- they never see friends and half do not receive any phone calls or invitations to activities, according to research published recently in the Journal of Autism and Developmental Disorders. Strikingly, researchers said that 28% had no social contact at all.
